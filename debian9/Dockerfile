@@ -7,7 +7,7 @@
 
 
 # pull base image
-FROM debian:stretch
+FROM debian:stretch-slim
 
 MAINTAINER William Yeh <william.pjyeh@gmail.com>
 
